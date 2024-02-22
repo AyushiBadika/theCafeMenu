@@ -1,0 +1,9 @@
+https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg
+
+https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg
+
+https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg
+
+font for headings : Impact, serif
+
+color : burlywood, brown
